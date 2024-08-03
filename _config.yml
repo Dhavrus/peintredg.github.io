@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://peintredg.com
+title: Peintre en bâtiment David Gagné | Thetford Mines et les environs
+email: peintred.gagne@gmail.com
+author: David Gagné
+description: Entrepreneur certifié pour vos travaux de peinture résidentielle, commerciale et institutionnel à Thetford Mines et les environs. Demandez votre soumission gratuite dès aujourd'hui.
+copyright: '&copy; 2024 Tous droits réservés | Peintre en batiment David Gagné Inc.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: facebook
+    url: https://www.facebook.com/PeintreD
+  - title: email
+    url: mailto:peintred.gagne@gmail.com
+  - title: telephone
+    url: tel:+14183332699
