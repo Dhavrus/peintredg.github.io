@@ -1,0 +1,8 @@
+---
+layout: default
+img: comm.png
+category: Services
+title: Commercial & Institutionnel
+description: |
+---
+  Des bureaux et magasins de détail aux établissements éducatifs et de santé, notre équipe offre des solutions de peinture efficaces et de haute qualité qui répondent à vos besoins spécifiques. Faites-nous confiance pour revitaliser vos espaces avec un minimum de perturbations.

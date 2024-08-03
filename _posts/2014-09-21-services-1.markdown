@@ -1,0 +1,8 @@
+---
+layout: default
+img: resid.png
+category: Services
+title: Résidentiel intérieur & extérieur
+description: |
+---
+Transformez votre maison avec nos services de peinture résidentielle de qualité. Que vous souhaitiez rafraîchir vos intérieurs ou améliorer l'apparence extérieure de votre maison, notre équipe qualifiée garantit une finition impeccable. Nous utilisons des peintures et des matériaux de haute qualité pour offrir des résultats durables et magnifiques adaptés à votre style et à vos besoins. Laissez-nous donner vie à votre vision avec précision et soin.

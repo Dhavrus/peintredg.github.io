@@ -1,0 +1,36 @@
+<section id="contact">
+    <div class="banner">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2>Coordonnées:</h2>
+                    <br>
+                    <p>Tel.: +1 418-333-2699</p>
+					<p>Email: peintred.gagne@gmail.com</p>
+                </div>
+                <div class="col-lg-6">
+                    <ul class="list-inline banner-social-buttons">
+                        {% for social in site.social %}
+                        <li>
+                            <br><br><br>
+                            <a href="{{ social.url }}" class="btn btn-default btn-lg">
+                                <i class="fa {% if social.title == 'email' %}fa-envelope{% elsif social.title == 'telephone' %}fa-phone{% else %}fa-{{ social.title }}{% endif %} fa-fw"></i>
+                                <span class="network-name">{% if social.title == 'telephone' %}Téléphone{% else %}{{ social.title | capitalize }}{% endif %}</span>
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+</section>
+<!-- /.banner -->
+
+
+
+
